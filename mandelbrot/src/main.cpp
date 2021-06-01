@@ -476,7 +476,7 @@ int main(int argc, char* args[])
 		char elapsed_time_string[128] = {};
 		sprintf_s(elapsed_time_string, "Simulation time: %dms", elapsed_time);
 		SDL_Surface* fps_text_surface = TTF_RenderText_Solid(font, elapsed_time_string, color);
-		SDL_BlitSurface(fps_text_surface, NULL, surface, NULL);
+		// SDL_BlitSurface(fps_text_surface, NULL, surface, NULL);
 
 		SDL_UpdateWindowSurface(window);
 	}

@@ -13,6 +13,6 @@
     <LocalDebuggerEnvironment>
     </LocalDebuggerEnvironment>
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
-    <LocalDebuggerWorkingDirectory>D:\code\C++\mandelbrot\dependencies\lib</LocalDebuggerWorkingDirectory>
+    <LocalDebuggerWorkingDirectory>D:\code\mandelbrot\dependencies\lib</LocalDebuggerWorkingDirectory>
   </PropertyGroup>
 </Project>
